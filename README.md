@@ -2,8 +2,8 @@
 leetcode problems
 
 Solved problems:
-1. Two Sum
-9. Palindrome Number
-13. Roman to Integer
-14. Longest Common Prefix
-20. Valid Parentheses
+1. Two Sum (1)
+2. Palindrome Number (9)
+3. Roman to Integer (13)
+4. Longest Common Prefix (14)
+5. Valid Parentheses (20)
